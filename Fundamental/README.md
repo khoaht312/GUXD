@@ -19,3 +19,20 @@
 -  - [x] Example 1: Fitness app. Quickly find workout routines tailored to their fitness level, with clear instructions and even video demonstrations.
    - [x] Example 2: A ride-hailing app. Clearly display the estimated wait time and fare, show the driver's location on a map in real-time, and offer multiple payment options for a smooth and convenient user experience.
      
+**Software Applications**: Productivity software helps people get things done efficiently.
+- Common UX problems:
+    - [x] Example 1: Video editing software. Important tools would be easily accessible, including things like intutive drag-and-drop functionality, clear labeling, and readily available tutorials.
+    - [x] Project management software. Such a platform would allow users to create tasks, assign deadlines, track progress visually, and communicate seamlessly within the project. Users could also customize dashboards to see the most relevant information at a glance, maximizing their efficiency and keeping projects organized.
+
+**Human-Centered Design (HCD):**
+1. Empathize: The design team understands users' needs, motivations, and pain points through interviews, observations, and empathy mapping.
+
+2. Define: The team defines the problem to solve, creating a problem statement based on insights from the empathize step to identify key user needs and challenges.
+
+3. Ideate: The team brainstorms to generate various solutions, using sketches, wireframes, and diagrams to explore ideas and concepts.
+
+4. Prototype: The team creates tangible representations of design ideas, from low-fidelity sketches to high-fidelity interactive mockups.
+
+5. Test: The team gathers feedback and validates design concepts through usability testing, user interviews, and other evaluation methods.
+
+6. Iterate: Designers refine and adjust the design based on feedback, continuing until the design effectively addresses user needs and achieves the desired outcomes.
